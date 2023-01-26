@@ -2,7 +2,6 @@
 title: "s3 python example"
 author: "w0rk-b00k"
 ---
-
 The script has very basic functionality. It is a good starting point for s3 in AWS. 
 
 ```
